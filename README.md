@@ -1,4 +1,4 @@
-# VoIP-Site-to-Site.netLAB  
+# VoIP-netLAB  
 
 This project showcases a sophisticated network topology designed for efficient communication between two remote sites.  
 
